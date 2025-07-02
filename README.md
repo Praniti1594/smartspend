@@ -55,7 +55,7 @@ Regular expressions parse out:
 
 Parsed items are saved along with the inferred category and date.
 
-**.3 Frontend Visualizations (Next.js)**
+**3. Frontend Visualizations (Next.js)**
 Beautiful interactive charts display:
 
 * Top categories by spending
